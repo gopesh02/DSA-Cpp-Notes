@@ -12,4 +12,5 @@ int main() {
 	   cout<<c<<" is a : Numeric."<<endl; 
 	}
 	return 0;
+
 }
